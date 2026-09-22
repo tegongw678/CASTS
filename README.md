@@ -1,2 +1,2 @@
 # CASTS
-The Code and data are coming soon.
+The code and data are coming soon.
